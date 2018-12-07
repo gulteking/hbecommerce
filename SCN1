@@ -1,0 +1,28 @@
+create_product P1 100 1000
+create_campaign C1 P1 10 20 100
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_product_info P1
+increase_time 1
+get_campaign_info C1
+
+
+
